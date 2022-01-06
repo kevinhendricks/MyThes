@@ -1,9 +1,9 @@
 MyThes
 ======
 
-Note: MyThes-1.0 has been subsumed by the Hunspell project.
+*** Note: MyThes-1.0 has been subsumed by the Hunspell project.
 This repo is here just to archive some older software I once wrote
-back in the very early 2000's.
+back in the very early 2000's.***
 
 
 MyThes is a simple thesaurus that uses a structured
